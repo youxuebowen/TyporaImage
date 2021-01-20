@@ -1,2 +1,2 @@
-# NJUPT-INFORMATION
+# 南京邮电大学通信与信息工程学院学习质料整理NJUPT-INFORMATION
 欢迎大家加入本资料库，为南邮学子提供近年来的学习资料及考试资料
